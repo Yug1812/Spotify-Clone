@@ -21,18 +21,18 @@ A responsive Spotify web player clone built with HTML, CSS, and JavaScript. This
 
 ## Live Demo
 
-You can view the live demo [here](https://[your-username].github.io/spotify-clone/)
+You can view the live demo [here](https://Yug1812.github.io/Spotify-Clone/)
 
 ## Setup
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[your-username]/spotify-clone.git
+git clone https://github.com/Yug1812/Spotify-Clone.git
 ```
 
 2. Open the project folder:
 ```bash
-cd spotify-clone
+cd Spotify-Clone
 ```
 
 3. Open `index.html` in your browser to view the project locally.
@@ -43,4 +43,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/) 
+[MIT](https://choosealicense.com/licenses/mit/)
